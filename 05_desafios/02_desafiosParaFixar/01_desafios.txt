@@ -1,0 +1,108 @@
+Lista de 50 Desafios de JavaScript (Crescente em Dificuldade)
+🟢 Fundamentos (1–15)
+
+Receba um número e diga se ele é positivo, negativo ou zero.
+
+Receba dois números e mostre qual é o maior deles.
+
+Leia três números e mostre a média aritmética.
+
+Verifique se uma palavra é palíndromo.
+
+Receba um número inteiro e mostre a tabuada dele de 1 a 10.
+
+Leia dois números e mostre a diferença absoluta entre eles.
+
+Calcule a velocidade média com base em distância e tempo.
+
+Calcule o novo salário com aumento de 10%.
+
+Verifique se um número é primo.
+
+Verifique se um ano é bissexto.
+
+Converta uma temperatura de Celsius para Fahrenheit.
+
+Receba a idade em anos e converta para meses, dias e horas.
+
+Desafio: Crie um programa que calcule o MMC de dois números.
+
+Desafio: Crie um programa que calcule o MDC de dois números.
+
+Desafio HARD: Escreva um algoritmo que verifique se um número é perfeito (ex: 28 = soma dos seus divisores próprios).
+
+🟡 Estruturas de Controle (16–25)
+
+Conte de 1 até 50 aplicando a regra do FizzBuzz.
+
+Classifique uma pessoa como criança, adolescente, adulto ou idoso.
+
+Calcule a média de 5 notas e classifique como aprovado, recuperação ou reprovado.
+
+Faça um contador regressivo de 10 até 0.
+
+Leia números até o usuário digitar 0 e mostre soma, média e quantidade.
+
+Mostre todos os divisores de um número.
+
+Leia a idade de 10 pessoas e diga quantas são maiores de idade.
+
+Leia uma nota de 0 a 10 e só aceite se estiver nesse intervalo.
+
+Crie uma calculadora simples (+, -, *, /).
+
+Desafio: Leia vários números e mostre o segundo maior.
+
+Desafio: Simule uma votação com 3 candidatos. O programa deve contar votos até digitar 0 e mostrar o vencedor.
+
+Desafio HARD: Implemente o algoritmo da sequência de Collatz (dado um número, se par divide por 2, se ímpar multiplica por 3 e soma 1, até chegar em 1).
+
+🔵 Funções (28–37)
+
+Função que receba um número e diga se é par ou ímpar.
+
+Função que calcule o fatorial de um número.
+
+Função que transforme um texto em caixa alta.
+
+Função que receba um array e retorne apenas os pares.
+
+Função que receba um array de nomes e retorne o maior nome.
+
+Função que gere a sequência de Fibonacci até certo número.
+
+Função que inverta uma string.
+
+Função que receba um array de números e retorne a soma total.
+
+Desafio: Função que receba um número e retorne todos os seus fatores primos.
+
+Desafio: Função que receba uma matriz NxN e retorne a soma da diagonal principal e da secundária.
+
+Desafio HARD: Crie uma função que resolva uma expressão matemática em string (ex: "2+3*4-1" → 13).
+
+🔴 Extras (39–50)
+
+Gere 20 números aleatórios entre 1 e 100 e mostre o maior, o menor e a média.
+
+Conte quantas vogais há em uma string.
+
+Pergunte a senha e só permita continuar se for "1234".
+
+Simule um caixa eletrônico que devolve o menor número de notas possíveis.
+
+Jogo de adivinhação: computador escolhe número de 1 a 100 e usuário tenta adivinhar.
+
+Leia 10 números e mostre apenas os pares.
+
+Leia um nome completo e mostre apenas o primeiro nome.
+
+Leia uma lista de frutas e remova as repetidas.
+
+Converta um número decimal para binário.
+
+Desafio: Simule o lançamento de dois dados até que ambos saiam 6, contando tentativas.
+
+Desafio: Crie um jogo da forca (sem interface gráfica, apenas no console).
+
+Desafio HARD: Crie um programa que resolva o quebra-cabeça das Torres de Hanói (3 discos já é suficiente para testar).
