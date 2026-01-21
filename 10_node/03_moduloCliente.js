@@ -10,8 +10,8 @@
 // Módulos de Terceiros: Instalados via NPM (ficam na pasta node_modules):
 // const express = require('express');
 
-const moduloA = require("./moduloA");
-const moduloB = require("./moduloB");
+const moduloA = require("./02_moduloA");
+const moduloB = require("./03_moduloB");
 
 console.log(moduloA.ola);
 console.log(moduloA.bemVindo);
